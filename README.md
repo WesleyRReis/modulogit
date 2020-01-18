@@ -1,8 +1,1 @@
-Meu SegundoArquivo do git.
-
-Alteração de dados do readme.
-
-qualquer coisa nova.
-alterado e atualizado
-
-teste novo commit
+Meu SegundoArquivo do git(Atualizando dados).
