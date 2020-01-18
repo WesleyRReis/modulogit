@@ -1,3 +1,6 @@
-Meu primeiro Arquivo do git.
+Meu SegundoArquivo do git.
 
 Alteração de dados do readme.
+
+qualquer coisa nova.
+alterado e atualizado
